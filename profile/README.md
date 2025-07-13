@@ -1,4 +1,4 @@
-# 🚀 BreakthroughF1 LLP
+# 🚀 BreaktroughF1 LLP
 
 **Pioneering Innovation, Engineering Excellence**
 
@@ -6,7 +6,7 @@
 
 ## 🌟 About Us
 
-At **BreakthroughF1 LLP**, we are catalysts for transformative change. Our mission is to redefine industries through cutting-edge technology while addressing socio-economic challenges like unemployment in India.  
+At **BreaktroughF1 LLP**, we are catalysts for transformative change. Our mission is to redefine industries through cutting-edge technology while addressing socio-economic challenges like unemployment in India.  
 
 **Vision**: To emerge as India’s foremost deep-tech unicorn, driving global innovation.  
 **Mission**: Empower businesses and communities with scalable, ethical solutions that bridge technology and human potential.
