@@ -44,8 +44,8 @@ At **BreaktroughF1 LLP**, we are catalysts for transformative change. Our missio
 
 **Let’s Build the Future Together**  
 
-- **📍 Address**: Tower C, Prestige Tech Park, Sarjapur Road, Bangalore 560103  
-- **📧 Email**: [innovation@breakthrough.ind.in](mailto:innovation@breakthrough.ind.in)
+- **📍 Address**: BreaktroughF1 LLP, CIC-Kengeri, kanmanike, mysoor road, Bangalore 560074  
+- **📧 Email**: [innovation@breaktroughf1.com](mailto:innovation@breaktroughf1.com)
 - **📞 Phone**: +91 6238765740
 
 ---
@@ -53,23 +53,23 @@ At **BreaktroughF1 LLP**, we are catalysts for transformative change. Our missio
 ## 🔗 Quick Links  
 - [Leadership Team](#about-us)  
 - [Case Studies](#services)  
-- [Careers](https://careers.breakthrough.ind.in)  
+- [Careers](https://careers.breaktroughf1.com)  
 
 ---
 
 ## 🌐 Follow Us
 
 Stay ahead with our latest breakthroughs:  
-- [LinkedIn](https://www.linkedin.com/company/breakthrough-pvt-ltd/)  
-- [Twitter](https://twitter.com/breakthroughf1)  
-- [Medium Blog](https://blog.breakthrough.ind.in)  
+- [LinkedIn](https://www.linkedin.com/company/breaktroughf1)  
+- [Twitter](https://twitter.com/breaktroughf1)  
+- [Blog](https://blog.breaktroughf1.com)
 
 ---
 
 ## ⚖️ Legal  
-- [Code of Conduct](https://legal.breakthrough.ind.in/conduct)  
-- [Privacy Policy](https://legal.breakthrough.ind.in/privacy)  
-- [Terms of Service](https://legal.breakthrough.ind.in/terms)  
+- [Code of Conduct](https://legal.breaktroughf1.com/conduct)  
+- [Privacy Policy](https://legal.breaktroughf1.com/privacy)  
+- [Terms of Service](https://legal.breaktroughf1.com/terms)  
 
 ---
 
@@ -79,8 +79,8 @@ All open-source projects are licensed under the [MIT License](LICENSE).
 ---
 
 ## 🤝 Contributing  
-Join our mission! Review our [Contribution Guidelines](https://github.com/Breakthroughf1/.github/blob/main/CONTRIBUTING.md) to submit proposals or collaborate on R&D.  
+Join our mission! Review our [Contribution Guidelines](https://github.com/Breaktroughf1/.github/blob/main/CONTRIBUTING.md) to submit proposals or collaborate on R&D.  
 
 ---
 
-© 2025 BreakthroughF1 LLP. *Innovating for a Smarter Tomorrow.*  
+© 2025 BreaktroughF1 LLP. *Innovating for a Smarter Tomorrow.*  
