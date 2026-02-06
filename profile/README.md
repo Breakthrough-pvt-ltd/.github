@@ -53,7 +53,7 @@ At **BreaktroughF1 LLP**, we are catalysts for transformative change. Our missio
 ## 🔗 Quick Links  
 - [Leadership Team](#about-us)  
 - [Case Studies](#services)  
-- [Careers](https://careers.breaktroughf1.com)  
+- [Careers](https://breaktroughf1.com/careers)  
 
 ---
 
@@ -62,14 +62,14 @@ At **BreaktroughF1 LLP**, we are catalysts for transformative change. Our missio
 Stay ahead with our latest breakthroughs:  
 - [LinkedIn](https://www.linkedin.com/company/breaktroughf1)  
 - [Twitter](https://twitter.com/breaktroughf1)  
-- [Blog](https://blog.breaktroughf1.com)
+- [Instagram](https://www.instagram.com/breaktroughf1_llp/)
 
 ---
 
 ## ⚖️ Legal  
-- [Code of Conduct](https://legal.breaktroughf1.com/conduct)  
-- [Privacy Policy](https://legal.breaktroughf1.com/privacy)  
-- [Terms of Service](https://legal.breaktroughf1.com/terms)  
+- [Code of Conduct](https://breaktroughf1.com/terms)  
+- [Privacy Policy](https://breaktroughf1.com/terms)  
+- [Terms of Service](https://breaktroughf1.com/terms)  
 
 ---
 
@@ -83,4 +83,4 @@ Join our mission! Review our [Contribution Guidelines](https://github.com/Breakt
 
 ---
 
-© 2025 BreaktroughF1 LLP. *Innovating for a Smarter Tomorrow.*  
+© 2025 - 2026 BreaktroughF1 LLP. *Innovating for a Smarter Tomorrow.*  
